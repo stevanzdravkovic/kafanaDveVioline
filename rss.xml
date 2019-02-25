@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rssss.xsl"?>
+  <rss version="2.0">
+<channel>
+     <item>
+	    <title>Kafana Dve violine - Konkurs za posao</title>
+	    <description> Potreban veći broj hostesa za docek Nove Godine u kafani Dve violine na Autokomandi.
+                   		</description>
+		<link> http://sajtovistudenata.ict.edu.rs/216_15/posao.html </link>
+	 </item>
+   
+   <item>
+	    <title>Kafana Dve violine - Konkurs za posao</title>
+	    <description> 
+                    Potrebni organizatori kafanskih veceri tokom nedelje		</description>
+		<link> http://sajtovistudenata.ict.edu.rs/216_15/posao.html </link>
+	 </item>
+   
+   
+     <item>
+	    <title>Kafana Dve violine petak - AKCIJA</title>
+	    <description> Ovog petka velika promocija vinjaka samo 100 dinara.		</description>
+		<link> http://sajtovistudenata.ict.edu.rs/216_15/rezervacije.html </link>
+	 </item>
+   
+
+   
+     <item>
+	    <title>Kafana Dve violine subota - AKCIJA</title>
+	    <description> Ove subote happy hour flaša na flašu. Dve flaše po ceni jedne.</description>
+		<link> http://sajtovistudenata.ict.edu.rs/216_15/rezervacije.html </link>
+	 </item>
+   </channel>
+</rss>
+
+

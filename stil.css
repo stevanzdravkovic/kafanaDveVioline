@@ -1,0 +1,157 @@
+*{padding:0px;margin:0px}
+
+
+body{background-image:url(slike/bodi3.jpg);font-family: Monotype Corsiva;} 
+#omot{width:1024px;margin:0 auto;}
+#uzorak{height:25px;background-image:url(slike/uzorakheder.jpg);repeat-x;}
+#header{background-color:black;height:150px;}
+#logo {float:left;width:150px;height:150px}
+#baner{text-align:center;color:white;font-size:40px;padding-top:30px}
+.cistac{clear:both;}
+
+
+
+#uzorak2{height:55px;background-image:url(slike/uzorakheder.jpg);repeat-x;}
+#uzorak2 h2{text-align:center;font-size:50px;color:Black;padding-left:190px;}
+#uzorak2 h2:hover{text-transform:uppercase; color:purple;}
+/*#meni ul li {padding-right:30px;list-style:none;padding-top:10px;float:left;
+font-size:30px;padding-left:20px}
+#meni a li {color:white}
+#meni a li:hover{color:white;background-color:black}
+#slajder{height:450px;width:673px;float:right;}
+#levo{float:left;padding-top:40px;padding-left:18px;}
+#levo h2 {text-align:center;font-size:50px}*/
+
+
+#sredina{width:1024px; height:550px;}
+#sredinalevo{height:400px;width:200px;
+background-image:url(slike/uzorak2.jpg);repeat-y;float:left;
+border-radius:50px;margin-left:50px;margin-top:30px;}
+#sredinalevo ul li {padding-right:30px;list-style:none;padding-top:20px;
+font-size:30px;padding-left:20px;}
+#sredinalevo li a {color:purple;}
+#sredinalevo li a:hover{color:purple;background-color:black;}
+a:link, a:visited, a:active {text-decoration: none} 
+
+#sredinadesno{width:680px;height:500px;float:right;padding-right:45px;padding-top:45px}
+#sredinadesno img {display:none}
+#sredinadesno .show{display:inline;}
+
+#sredinadole{width:1024px;height:900px;}
+#slikadole{float:left;height:850px;width:400px;padding-left:80px;margin-top:10px;}
+#slikadole p{font-size:25px;text-align:center;
+background-color:black;color:white;border-radius:20px;margin-right:10px;margin-top:55px}
+
+#klase{float:right; height:850px; width:400px;background-color:black;color:white;
+margin-right:100px; font-size:25px;text-align:center;border-radius:50px;}
+
+.doledesno{Width:350px;height:300px;padding-top:15px;
+padding-bottom:110px;margin-left:20px}
+.doledesno a p:hover{background-color:white;}
+.doledesno a:link{color:purple}
+.doledesno a:active{backgroundcolor:purple}
+.doledesno a {font-size:35px;}
+
+#mreze{float:leftt;height:65px;width:1024px
+;background-color:black;color:white;font-size:20px;}
+#mreze h3{text-align:center;padding-left:600px;}
+#mreze a {float:right;}
+
+#futer{height:45px;background-image:url(slike/uzorakheder.jpg);repeat-x;}
+#futer li a:hover{color:purple;background-color:black}
+#futer ul li {padding-right:20px;list-style:none;padding-top:10px;float:left;
+font-size:25px;padding-left:20px}
+#futer a{color:purple;}
+
+
+/*kontakt*/
+#mapa{float:right;height:480px;width:600px;margin-right:60px;margin-top:60px}
+#mapa p{font-size:20px;background-color:black;color:white}
+#forma{height:450px;width:1024px;}
+#formalevo{height:200px; width:400px;background-color:black;
+border-radius:100px;color:white;text-align:center;padding-top:50px;float:left;}
+#formalevo h2{font-size:30px;}
+#formalevo p {font-size:20px;}
+#formadesno{float:right;width:300px;height:300px;color:white;
+margin-right:200px}
+#formadesno h3{background-color:black;font-size:25px;text-align:center}
+#uzorak2 h1{text-align:center;}
+#kontaktforma{font-size:20px;background-color:black}
+#kontakt{width:150px; margin:10px auto; border:1px solid #CCC;
+background-color:black;border-radius:20px;font-size:20px}
+#ispiskontakt{color:red;background-color:black;font-size:20px;text-align:center;}
+
+
+
+/*o autoru */
+
+#levo{width:300px;height:300px;padding-left:265px}
+#desno{width:250px;height:100px;background-color:black;color:white;text-align:center;
+margin-left:215px;font-size:20px}
+#sredinadesnok{width:680px;height:500px;float:right;padding-right:45px;padding-top:45px}
+#sitemap{float:left;height:40px; width:100px;}
+#sitemap a{color:white}
+/*rezervacije*/
+#tabela{width:500px; margin:10px auto; border:1px solid #CCC;
+ background-color:black;color:white;font-size:30px;border-radius:20px}
+ #ispis{color:red;background-color:black;font-size:25px;text-align:center;}
+ #ispis ul li{list-style:none}
+
+ /*galerija*/
+#galerija{width:680px;height:500px;float:right;padding-right:45px;padding-top:45px}
+.slike{width:200px;height:150px;float:left}
+.slike img{width:150px;height:100px}
+
+/*sitemap*/
+
+url {width:500px;height:200px;margin:20px auto;display:block;color:white;}
+loc ,changefreq,priority,lastmod {border:1px solid purple; width:500px;
+ height:50px;display:block;color:white;background-color:gray;text-align:center;}
+ urlset {background-color:black;}
+ 
+ /*rss*/
+ 
+ item{margin:20px auto; width:580px;border:1px solid #000;
+ padding:10px;display:block;text-align:center;background-color:purple;border-radius:30px}
+description, title, link{height:50px;display:block;color:white;padding-top:15px;}
+description{padding-top:20px}
+title{font-size:30px}
+link{padding-top:20px}
+ rss {background-color:black}
+ 
+ /*posao*/
+ .org img{height:150px;width:250px}
+ .org{height:300px;width:310px;float:left;
+ background-color:black;border-radius:20px;text-align:center;margin-left:30px;margin-top:40px}
+ .org p {color:white;font-size:25px}
+.org a p:hover{color:purple;background-color:white}
+
+/*GALLERY*/
+
+	text-align:center;
+	
+font-family: 'Lobster', cursive;
+    margin:40px 0px 30px 0px;
+	font-size:40px;
+	color:#fff;
+	letter-spacing:2px;
+}
+#content_gallery{
+	width:1050px;
+	height:100%;
+	margin:0 auto;
+}
+.gallery1{
+	padding:5px;
+}
+.gallery2{
+	float:left;
+	padding-left:3px;
+	margin-top:20px;
+}
+.img{
+	border-radius:15%;
+}
+
+
+

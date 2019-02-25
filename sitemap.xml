@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+
+
+<urlset>
+
+  
+  
+  <url>
+    <loc>http://sajtovistudenata.ict.edu.rs/216_15/index.html</loc>
+    <lastmod>2016-12-03T19:31:12+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://sajtovistudenata.ict.edu.rs/216_15/kontakt.html</loc>
+    <lastmod>2016-12-03T19:10:52+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sajtovistudenata.ict.edu.rs/216_15/galerija.html</loc>
+    <lastmod>2016-12-03T19:03:10+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://sajtovistudenata.ict.edu.rs/216_15/rezervacije.html</loc>
+    <lastmod>2016-12-02T01:34:56+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sajtovistudenata.ict.edu.rs/216_15/posao.html</loc>
+    <lastmod>2016-12-01T22:54:30+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sajtovistudenata.ict.edu.rs/216_15/organizator.html</loc>
+    <lastmod>2016-12-01T22:54:30+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sajtovistudenata.ict.edu.rs/216_15/hostese.html</loc>
+    <lastmod>2016-12-01T22:54:30+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sajtovistudenata.ict.edu.rs/216_15/autor.html</loc>
+    <lastmod>2016-12-01T14:57:48+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  
+  </urlset>
